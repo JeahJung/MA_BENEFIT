@@ -1,4 +1,4 @@
-# Benefit_ITT_test
+# HSR2026_Expanded Benefit Provision
 
 Code used to estimate the effect of Medicare Advantage plans' provision of expanded
 supplemental benefits on enrollees' acute care utilization, using 2017–2022 CMS Medicare
